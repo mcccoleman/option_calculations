@@ -16,6 +16,10 @@ The following methods currently exist for call options:
 - `price`
 - `delta`
 
+# Definitions
+
+- _Delta_: Delta records the anticipated change in an options price with a $1 increase or decrease in the underlying contract's price.
+
 # To dos
 
 - Error handling
